@@ -1,6 +1,2 @@
-1. Javascript
-2. PHP
-3. HTML
-
-- **Movies**
-- _Animations_
+- Movies
+- Animations
